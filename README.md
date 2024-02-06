@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Binu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Fee management system](https://github.com/rahul-binu/feeManagement)
+- 🔭 I’m currently working on [BLUECOLLARGIGS](https://github.com/rahul-binu/feeManagement)
 
 - 📫 How to reach me **just.commit.it@gmail.com**
 
