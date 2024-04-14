@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **just.commit.it@gmail.com**
 
+- <a href = "https://master.d35s8xos2pe65q.amplifyapp.com/#contact" >my portfolio website</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-binu-a2a629238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-binu-a2a629238" height="30" width="40" /></a>
