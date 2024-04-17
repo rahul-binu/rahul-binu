@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **just.commit.it@gmail.com**
 
-- <a href = "https://master.d35s8xos2pe65q.amplifyapp.com/#contact" 
+- <a href = "https://master.d35s8xos2pe65q.amplifyapp.com/" 
     style="text-decoration:none">Click Here To Find Me</a>
 
 <h3 align="left">Connect with me:</h3>
