@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing
 
-- 👨‍💻 All of my projects are available at [welcome](https://master.d35s8xos2pe65q.amplifyapp.com/)
+- 👨‍💻 All of my projects are available at [Rahul](https://master.d35s8xos2pe65q.amplifyapp.com/)
 
 - 📫 How to reach me **iamrahulbinu@gmail.com**
 
