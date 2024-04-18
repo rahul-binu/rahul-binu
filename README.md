@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing
 
-- 👨‍💻 <h4>Click here to find me [Rahul](https://master.d35s8xos2pe65q.amplifyapp.com/)</h4>
+#### [Connect with Rahul](https://master.d35s8xos2pe65q.amplifyapp.com/) 👨‍💻
 
 - 📫 How to reach me **iamrahulbinu@gmail.com**
 
