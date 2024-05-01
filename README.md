@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Binu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on --------
 
 #### - [Find me by clicking here](https://master.d35s8xos2pe65q.amplifyapp.com/) 👨‍💻
 
