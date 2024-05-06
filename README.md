@@ -5,7 +5,7 @@
 
 #### - [Find me by clicking here](https://master.d35s8xos2pe65q.amplifyapp.com/) 👨‍💻
 
-- 📫 How to reach me **iamrahulbinu@gmail.com**
+-  📫 How to reach me **iamrahulbinu@gmail.com**
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
