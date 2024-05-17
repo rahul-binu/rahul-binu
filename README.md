@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on --------
 
-#### - [Find me by clicking here](https://master.d35s8xos2pe65q.amplifyapp.com/) 👨‍💻
+#### - [Find me by clicking here](https://master.d35s8xos2pe65q.amplifyapp.com/) <b>👨‍💻</b>
 
 -  📫 How to reach me **iamrahulbinu@gmail.com**
 
