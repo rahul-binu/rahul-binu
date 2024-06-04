@@ -2,8 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 - 🔭 [I’m woriking as a software developer at IGNOSI enterprises]((https://ignosi.in/))
-
-#### - [Find me by clicking here](https://master.d35s8xos2pe65q.amplifyapp.com/) <b>👨‍💻</b>
+ - [Find me by clicking here](https://master.d35s8xos2pe65q.amplifyapp.com/) <b>👨‍💻</b>
 
 -  📫 How to reach me **iamrahulbinu@gmail.com**
 
