@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Binu </h1>
+<h1 align="center">Hi 👋, I'm Rahul Binu </h1>  
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 - 🔭 [I’m woriking as a software developer at IGNOSI enterprises]((https://ignosi.in/))
